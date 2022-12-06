@@ -8,6 +8,6 @@ describe('Verify the login functionality',()=>{
      cy.visit(baseUrl)
     })
     it('verify login',()=>{
-        cy.visit(baseUrl)
+        //cy.visit('/Login-Portal/index.html')
      })
 })
