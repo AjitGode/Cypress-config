@@ -1,0 +1,4 @@
+{
+    "extend":"./cypress.json",
+    "baseUrl":"http://www.google.com/"
+}
