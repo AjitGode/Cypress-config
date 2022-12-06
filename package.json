@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"npx cypress run --browser chrome --headed",
+    "start":"npx cypress run --browser new_chrome --headed",
     "local":"npx cypress run --headed --config-file local-config.json",
     "staging":"npx cypress run --headed --config-file staging-config.json",
     "production":"npx cypress run --headed --config-file production-config.json",
