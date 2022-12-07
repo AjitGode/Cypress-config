@@ -1,7 +1,5 @@
 {
-    "baseUrl":"http://www.webdriveruniversity.com/",
-    "execTimeout":6000,
-    "redirectionLimit":20
+    "baseUrl":"http://www.webdriveruniversity.com/"
 
 
 }
